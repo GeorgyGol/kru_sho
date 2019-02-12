@@ -20,7 +20,9 @@ def read_td(strFile=os.path.join(strFileDir, strSourceFileName)):
     #books=[ [p.strip() for p in re.split(r'(?m)ЧАСТЬ [А-Я]+', t.strip())]
     # for t in re.split(r'(?m)КНИГА [А-Я]+', text)]
 
-    books = [[[i for i in split(r'(?m)\s?\b[IVX]+\b', p)] for p in split(r'(?m)ЧАСТЬ [А-Я]+', b)] for b in split(r'(?m)КНИГА [А-Я]+', text)]
+    books = [[[i for i in split(r'(?m)\s{2,}\b[IVX]+\b', p)]
+              for p in split(r'(?m)ЧАСТЬ [А-Я]+', b)]
+             for b in split(r'(?m)КНИГА [А-Я]+', text)]
     print('all books = ', len(books))
     dic_td=dict()
 

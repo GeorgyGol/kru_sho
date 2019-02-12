@@ -9,6 +9,7 @@ strFileDir='Sholokhov'
 strCelina=r'http://www.lib.ru/PROZA/SHOLOHOW/celina.txt'
 strDestiny=r'http://www.lib.ru/PROZA/SHOLOHOW/sudbache.txt'
 
+
 def format_para(text):
     strs = re.split(r'(?m)\n\s{3}', text)
     lst = [re.sub(' {2,}', ' ', s.replace('\n', ' ')).strip() for s in strs]
