@@ -118,7 +118,8 @@ class xAuthors (pd.DataFrame):
             return
 
         self.loc[inx, 'in_use'] = val
-
+    def working_authors(self):
+        self.index.lolist()
 
 authors = xAuthors(lst_authors).set_index('index')
 
@@ -142,4 +143,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    pass
+    #main()

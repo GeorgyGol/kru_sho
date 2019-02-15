@@ -100,22 +100,21 @@ def sort_result(pdf):
     return pdf.drop(lstID, axis=1)
 
 
-def main():
-    authors.use(val=False)
-    authors.use(index=['kru', 'sho'], val=True)
-    authors.main_author='kru'
+def modeling(strIndex):
+
+    authors.main_author = strIndex
 
     pdfX = pd.concat([pdf for pdf in authors.index.map(read_source_txt)])
 
     print('loading sourses (files):')
     print(pdfX.groupby(by='auth').size())
-    print('='*40)
+    print('=' * 40)
     print('All files: ', pdfX.shape[0])
 
-    pdf_td = read_TD() # read Тихий Дон
-    pdf_result=sort_result(make_result_pdf(pdf_td))
+    pdf_td = read_TD()  # read Тихий Дон
+    pdf_result = sort_result(make_result_pdf(pdf_td))
 
-    print('?'*80)
+    print('?' * 80)
     print('\nВОПРОС : автор "Тихого Дона" -- {0}?\n'.format(authors.main_author['strRuName'].values[0]))
 
     for i in range(13):
@@ -124,15 +123,24 @@ def main():
         res = model.predict(pdf_td['text'])
         res_prob = model.predict_proba(pdf_td['text'])
 
-        pdf=pd.DataFrame({'prob2_{0}'.format(i):[j for _, j in res_prob]}, index= pdf_td.index.tolist())
-        pdf_result=pdf_result.join(pdf)
-        prob2_mean=pdf_result['prob2_{0}'.format(i)].mean()
+        pdf = pd.DataFrame({'prob2_{0}'.format(i): [j for _, j in res_prob]}, index=pdf_td.index.tolist())
+        pdf_result = pdf_result.join(pdf)
+        prob2_mean = pdf_result['prob2_{0}'.format(i)].mean()
         print('STEP {0} DONE. Probability for YES - {1:.3f}'.format(i, prob2_mean))
 
     pdf_result.to_csv('result_prob_{}.csv'.format(authors.main_author['strFileDir'].values[0]), sep=';', index=False)
     print('writing result to file ', 'result_prob_{}.csv'.format(authors.main_author['strFileDir'].values[0]))
     print('?' * 80)
     print('All done.')
+
+def main():
+    authors.use(val=False)
+    authors.use(index=['kru', 'sho', 'sera', 'fad'], val=True)
+    authors.main_author='kru'
+
+    for n, auth in authors.iterrows():
+        if auth['in_use']:
+            modeling(n)
 
 
 if __name__ == "__main__":
