@@ -72,7 +72,7 @@ lst_authors=[Krukov, Sholokhov, Tolstoy, Serafimovich, Fadeyev, Babel, Kataev, P
 strCelina=r'http://www.lib.ru/PROZA/SHOLOHOW/celina.txt'
 strDestiny=r'http://www.lib.ru/PROZA/SHOLOHOW/sudbache.txt'
 
-str_TD_FileDir='TD'
+str_TD_FileDir='predict/TD'
 
 
 class xAuthors (pd.DataFrame):

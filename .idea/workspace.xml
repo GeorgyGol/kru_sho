@@ -3,11 +3,425 @@
   <component name="ChangeListManager">
     <list default="true" id="b6ac77ac-c885-47c0-b117-2f4427e8ef18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KruSho.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KruSho.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Text loaders-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Text loaders-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multiple test analisys.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Multiple test analisys.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/Source/Tihii_Don_source.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p1_h9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p2_h9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b1_p3_h9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p10_h10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p11_h11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p12_h12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p13_h13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p14_h14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p15_h15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p16_h16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p17_h17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p18_h18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p19_h19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p1_h1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p20_h20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p21_h21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p22_h22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p23_h23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p24_h24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p25_h25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p26_h26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p27_h27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p28_h28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p29_h29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p2_h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p30_h30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p31_h31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p3_h3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p4_h4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p5_h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p6_h6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p7_h7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p8_h8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b2_p9_h9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p10_h10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p11_h11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p12_h12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p13_h13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p14_h14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p15_h15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p16_h16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p17_h17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p18_h18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p19_h19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p1_h1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p20_h20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p21_h21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p22_h22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p23_h23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p24_h24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p25_h25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p26_h26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p27_h27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p28_h28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p29_h29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p2_h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p30_h30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p31_h31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p32_h32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p33_h33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p34_h34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p35_h35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p36_h36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p37_h37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p38_h38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p39_h39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p3_h3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p4_h4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p5_h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p6_h6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p7_h7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p8_h8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b3_p9_h9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p10_h10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p11_h11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p12_h12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p13_h13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p14_h14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p15_h15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p16_h16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p17_h17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p18_h18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p19_h19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p1_h1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p20_h20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p21_h21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p22_h22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p23_h23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p24_h24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p25_h25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p26_h26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p27_h27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p28_h28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p29_h29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p2_h2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p3_h3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p4_h4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p5_h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p6_h6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p7_h7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p8_h8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD/b4_p9_h9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text loaders.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Text loaders.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/1" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/10" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/100" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/100" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/101" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/102" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/102" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/103" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/103" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/104" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/104" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/105" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/105" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/106" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/106" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/107" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/107" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/108" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/108" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/109" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/109" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/110" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/110" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/111" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/113" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/114" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/117" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/117" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/119" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/119" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/12" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/120" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/120" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/121" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/121" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/122" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/122" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/123" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/123" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/124" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/124" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/125" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/125" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/126" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/126" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/127" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/127" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/128" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/128" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/129" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/129" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/13" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/130" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/130" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/131" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/131" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/132" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/132" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/133" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/133" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/134" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/134" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/135" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/135" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/136" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/136" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/137" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/137" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/138" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/138" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/139" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/139" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/14" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/140" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/140" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/141" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/141" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/142" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/142" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/143" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/143" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/144" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/144" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/145" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/145" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/146" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/146" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/147" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/147" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/148" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/148" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/149" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/149" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/15" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/150" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/150" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/151" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/151" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/152" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/153" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/154" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/155" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/156" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/157" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/158" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/159" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/16" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/160" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/161" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/162" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/163" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/165" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/166" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/167" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/168" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/169" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/17" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/17" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/170" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/172" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/173" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/174" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/175" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/176" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/177" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/178" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/18" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/180" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/181" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/182" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/183" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/184" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/185" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/186" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/187" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/188" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/189" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/19" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/190" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/191" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/192" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/193" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/194" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/195" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/196" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/197" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/198" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/2" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/20" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/200" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/201" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/203" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/204" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/205" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/206" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/207" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/208" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/21" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/210" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/211" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/213" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/214" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/215" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/216" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/217" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/219" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/220" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/223" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/224" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/224" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/225" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/225" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/226" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/226" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/227" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/227" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/228" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/228" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/229" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/229" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/23" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/230" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/230" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/231" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/231" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/232" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/232" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/233" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/233" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/234" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/234" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/235" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/235" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/236" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/236" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/237" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/237" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/238" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/238" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/239" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/239" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/24" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/25" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/25" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/26" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/26" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/27" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/27" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/28" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/28" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/29" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/3" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/30" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/30" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/4" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/5" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/6" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/64" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/65" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/65" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/66" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/66" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/67" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/67" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/68" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/68" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/69" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/69" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/7" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/70" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/70" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/71" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/71" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/72" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/72" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/73" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/73" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/74" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/74" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/75" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/75" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/76" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/76" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/77" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/77" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/78" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/78" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/79" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/79" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/8" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/80" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/80" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/81" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/81" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/82" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/82" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/83" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/83" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/84" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/84" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/85" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/85" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/86" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/86" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/87" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/87" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/9" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/93" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/93" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/95" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/95" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/96" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/96" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/97" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/98" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/98" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tolstoy/99" beforeDir="false" afterPath="$PROJECT_DIR$/Tolstoy/99" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_serv.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_serv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mltr.py" beforeDir="false" afterPath="$PROJECT_DIR$/mltr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result_prob_Fadeyev.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result_prob_Krukov.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result_prob_Krukov1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result_prob_Tolstoy.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +434,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/read_cru.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" selection-start-line="5" selection-end-line="7" />
+            <state relative-caret-position="322">
+              <caret line="56" column="14" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="58" selection-end-column="12" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -41,23 +455,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mltr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="22" selection-start-line="20" selection-start-column="4" selection-end-line="22" />
+            <state relative-caret-position="306">
+              <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#494#1144#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_serv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="61" column="15" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="21" />
+            <state relative-caret-position="-504">
+              <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
               <folding>
                 <element signature="e#2132#2147#0" />
                 <element signature="e#2198#2245#0" />
@@ -144,6 +559,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +571,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,15 +770,8 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/read_cru.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" selection-start-line="5" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/check_sources.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/read_sho.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -371,16 +779,6 @@
           <caret line="51" column="12" selection-start-line="48" selection-start-column="4" selection-end-line="51" selection-end-column="12" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mltr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="22" selection-start-line="20" selection-start-column="4" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -417,14 +815,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main_serv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="61" column="15" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="21" />
+        <state relative-caret-position="-504">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
           <folding>
             <element signature="e#2132#2147#0" />
             <element signature="e#2198#2245#0" />
             <element signature="e#2280#2308#0" />
             <element signature="e#2352#2518#0" />
             <element signature="e#2611#2646#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_cru.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="56" column="14" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="58" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mltr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#494#1144#0" />
           </folding>
         </state>
       </provider>

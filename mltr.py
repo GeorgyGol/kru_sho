@@ -43,7 +43,7 @@ def read_TD(strDir=str_TD_FileDir, file_mask='*'):
 
     lst_files=glob.glob(os.path.join(strDir, file_mask))
     lst_params=[]
-
+    print(strDir)
     for fl in lst_files:
         try:
             with open(fl, 'r') as f:
@@ -60,13 +60,15 @@ def read_TD(strDir=str_TD_FileDir, file_mask='*'):
     #print(pdf['name'].tolist())
     return  pdf
 
+
 def train_model(pdf, train_with_test=True):
     print('Train model...', end='')
     X_train, X_test, y_train, y_test=train_test_split(pdf['text'], pdf['flag'])
 
     #print(X_train)
     #clf_pp=Pipeline([('tfidf', TfidfVectorizer(ngram_range=(1, 2))), ('clf_n', MLPClassifier())]) # настройка с параметрами
-    clf_pp = Pipeline([('tfidf', TfidfVectorizer()), ('clf_n', MLPClassifier())])
+    clf_pp = Pipeline([('tfidf', TfidfVectorizer()), ('clf_n', MLPClassifier(hidden_layer_sizes=(500,),
+                                                                             max_iter=300))])
 
     if train_with_test:
         clf_pp.fit(X_train, y_train)
@@ -111,31 +113,58 @@ def modeling(strIndex):
     print('=' * 40)
     print('All files: ', pdfX.shape[0])
 
-    pdf_td = read_TD()  # read Тихий Дон
-    pdf_result = sort_result(make_result_pdf(pdf_td))
+    strAskDir=str_TD_FileDir # TD
+    #strAskDir = 'predict/f1' # Fadeev's texts
+    #strAskDir = 'predict/ka1'  # Kataev's texts
+    #strAskDir = 'predict/pl1'  # Platonov's texts
+
+    strResultDir= re.sub('predict', 'result', strAskDir)
+
+    try:
+        os.mkdir(strResultDir)
+    except:
+        pass
+
+    pdf_td = read_TD(strDir=strAskDir)  # read ASK samle
+
+    if strAskDir==str_TD_FileDir:
+        pdf_result = sort_result(make_result_pdf(pdf_td))
+    else:
+        pdf_result = make_result_pdf(pdf_td)
 
     print('?' * 80)
-    print('\nВОПРОС : автор "Тихого Дона" -- {0}?\n'.format(authors.main_author['strRuName'].values[0]))
+    print('\nВОПРОС : автор "кучи непонятных текстов" -- {0}?\n'.format(authors.main_author['strRuName'].values[0]))
 
-    for i in range(13):
-        print('STEP :', i)
+    if True:
+
         model = train_model(pdfX)
         res = model.predict(pdf_td['text'])
         res_prob = model.predict_proba(pdf_td['text'])
 
-        pdf = pd.DataFrame({'prob2_{0}'.format(i): [j for _, j in res_prob]}, index=pdf_td.index.tolist())
+        pdf = pd.DataFrame({'prob2_0': [j for _, j in res_prob]}, index=pdf_td.index.tolist())
         pdf_result = pdf_result.join(pdf)
-        prob2_mean = pdf_result['prob2_{0}'.format(i)].mean()
-        print('STEP {0} DONE. Probability for YES - {1:.3f}'.format(i, prob2_mean))
+        prob2_mean = pdf_result['prob2_0'].mean()
+        print('DONE. Probability for YES - {0:.3f}'.format(prob2_mean))
+    else:
+        for i in range(5):
+            print('STEP :', i)
+            model = train_model(pdfX)
+            res = model.predict(pdf_td['text'])
+            res_prob = model.predict_proba(pdf_td['text'])
 
-    pdf_result.to_csv('result_prob_{}.csv'.format(authors.main_author['strFileDir'].values[0]), sep=';', index=False)
-    print('writing result to file ', 'result_prob_{}.csv'.format(authors.main_author['strFileDir'].values[0]))
+            pdf = pd.DataFrame({'prob2_{0}'.format(i): [j for _, j in res_prob]}, index=pdf_td.index.tolist())
+            pdf_result = pdf_result.join(pdf)
+            prob2_mean = pdf_result['prob2_{0}'.format(i)].mean()
+            print('STEP {0} DONE. Probability for YES - {1:.3f}'.format(i, prob2_mean))
+    strResFile=os.path.join(strResultDir, 'result_prob_{}.csv'.format(authors.main_author['strFileDir'].values[0]))
+    pdf_result.to_csv(strResFile, sep=';', index=False)
+    print('writing result to file ', strResFile)
     print('?' * 80)
     print('All done.')
 
 def main():
     authors.use(val=False)
-    authors.use(index=['kru', 'sho', 'sera', 'fad'], val=True)
+    authors.use(index=['kru', 'sho', 'sera', 'fad', 'ltol', 'pla', 'kat'], val=True)
     authors.main_author='kru'
 
     for n, auth in authors.iterrows():
