@@ -25,11 +25,20 @@ Tolstoy={'strFileDir':'Tolstoy',
            'in_use':True,
            'fire':0}
 
+ATolstoy={'strFileDir':'ATolstoy',
+           'strUrl':r'',
+           'strRuName':'A. Толстой',
+           'index':'atol',
+           'file_mask':'*.txt',
+           'in_use':True,
+           'fire':0}
+
+
 Serafimovich={'strFileDir':'Serafimovich',
            'strUrl':r'http://lib.ru/RUSSLIT/SERAFIMOWICH/',
            'strRuName':'А. Серафимович',
            'index':'sera',
-           'file_mask':'*',
+           'file_mask':'*.txt',
            'in_use':True,
            'fire':0}
 
@@ -38,7 +47,7 @@ Babel={'strFileDir':'Babel',
            'strUrl':r'http://www.lib.ru/PROZA/BABEL/',
            'strRuName':'И. Бабель',
            'index':'bab',
-           'file_mask':'*',
+           'file_mask':'*.txt',
            'in_use':True,
            'fire':0}
 
@@ -46,7 +55,7 @@ Fadeyev={'strFileDir':'Fadeyev',
            'strUrl':r'http://www.lib.ru/RUSSLIT/FADEEW/',
            'strRuName':'А. Фадеев',
            'index':'fad',
-           'file_mask':'*',
+           'file_mask':'*.txt',
            'in_use':True,
            'fire':0}
 
@@ -54,7 +63,7 @@ Kataev={'strFileDir':'Kataev',
            'strUrl':r'http://www.lib.ru/PROZA/KATAEW/',
            'strRuName':'В. Катаев',
            'index':'kat',
-           'file_mask':'*',
+           'file_mask':'*.txt',
            'in_use':True,
            'fire':0}
 
@@ -63,11 +72,20 @@ Platonov={'strFileDir':'Platonov',
            'strUrl':r'http://platonov-ap.ru/novels/',
            'strRuName':'А. Платонов',
            'index':'pla',
-           'file_mask':'*',
+           'file_mask':'*.txt',
            'in_use':True,
            'fire':0}
 
-lst_authors=[Krukov, Sholokhov, Tolstoy, Serafimovich, Fadeyev, Babel, Kataev, Platonov]
+Bulgakov={'strFileDir':'Bulgakov',
+           'strUrl':r'http://www.lib.ru/BULGAKOW/',
+           'strRuName':'М. Булгаков',
+           'index':'blg',
+           'file_mask':'*.txt',
+           'in_use':True,
+           'fire':0}
+
+
+lst_authors=[Krukov, Sholokhov, Tolstoy, ATolstoy, Serafimovich, Fadeyev, Babel, Kataev, Platonov, Bulgakov]
 
 strCelina=r'http://www.lib.ru/PROZA/SHOLOHOW/celina.txt'
 strDestiny=r'http://www.lib.ru/PROZA/SHOLOHOW/sudbache.txt'
@@ -143,5 +161,5 @@ def main():
 
 
 if __name__ == "__main__":
-    pass
+    print(authors)
     #main()
