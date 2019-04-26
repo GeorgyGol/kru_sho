@@ -2,631 +2,573 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6ac77ac-c885-47c0-b117-2f4427e8ef18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Multiple test analisys-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Multiple test analisys-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Text loaders-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Text loaders-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Один в чаще_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Fadeyev/Один в чаще_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разгром_9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_31.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_32.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_33.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_34.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_35.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_36.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_37.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_38.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_39.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_40.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_41.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_42.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_43.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_44.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_45.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_46.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_47.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_48.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_49.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_51.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_52.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_53.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_54.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_55.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_56.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_57.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_58.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_59.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_60.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Разлив_9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Рождение амгуньского полка_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Рождение амгуньского полка_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Рождение амгуньского полка_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Рождение амгуньского полка_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Рождение амгуньского полка_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Рождение амгуньского полка_6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fadeyev/Рождение амгуньского полка_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/01_-_Sestri_19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/01_-_Sestri_19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATolstoy/02_-_Vosemnadcatiy_god_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATolstoy/a9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Воспоминания, портреты, статьи_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Конармия_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Миниатюры_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Миниатюры_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Одесские рассказы_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Публицистика_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Babel/Рассказы разных лет_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bulgakov/Белая гвардия_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bulgakov/Белая гвардия_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Krukov/Памяти Н. Ф. Анненского" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Multiple test analisys.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Multiple test analisys.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-55.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-58.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-59.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-61.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-62.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-63.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-65.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-66.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-67.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-68.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ВТОРАЯ-69.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sholokhov/Поднятая_целина_КНИГА_ПЕРВАЯ-9.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Text loaders.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Text loaders.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/112" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/113" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/114" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/115" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/116" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/118" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/152" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/153" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/154" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/155" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/156" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/157" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/158" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/159" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/160" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/161" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/162" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/163" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/164" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/165" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/166" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/167" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/168" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/169" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/170" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/171" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/172" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/173" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/174" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/175" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/176" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/177" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/178" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/179" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/180" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/181" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/182" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/183" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/184" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/185" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/186" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/187" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/188" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/189" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/190" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/191" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/192" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/193" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/194" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/195" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/196" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/197" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/198" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/199" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/200" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/201" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/202" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/203" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/204" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/205" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/206" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/207" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/208" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/209" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/210" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/211" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/212" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/213" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/214" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/215" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/216" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/217" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/218" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/219" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/220" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/221" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/222" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/223" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/49" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/52" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/54" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/56" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/57" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/61" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/62" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/63" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/88" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/89" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/91" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/92" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/94" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/Karenina.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tolstoy/Source/Karenina1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_serv.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_serv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mltr.py" beforeDir="false" afterPath="$PROJECT_DIR$/mltr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/TD/Source/Tihii_Don_source.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/TD/b3_p1_h1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Землетрясение_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Землетрясение_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Землетрясение_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Землетрясение_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Землетрясение_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Один в чаще_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Один в чаще_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Один в чаще_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_100.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_101.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_102.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_103.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_104.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_105.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_106.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_107.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_108.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_109.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_110.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_111.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_113.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_114.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_115.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_116.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_117.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_118.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_119.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_120.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_121.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_122.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_123.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_124.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_125.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_126.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_127.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_128.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_129.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_130.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_131.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_132.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_133.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_134.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_135.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_136.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_138.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_139.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_140.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_141.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_142.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_143.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_144.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_31.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_32.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_33.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_34.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_35.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_36.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_37.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_38.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_39.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_40.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_41.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_42.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_43.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_44.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_45.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_46.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_47.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_48.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_49.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_51.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_52.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_53.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_54.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_55.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_56.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_57.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_58.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_59.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_60.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_61.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_62.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_63.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_64.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_65.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_66.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_67.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_68.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_69.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_70.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_71.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_72.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_73.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_74.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_76.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_77.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_78.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_79.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_80.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_81.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_82.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_83.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_84.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_85.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_86.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_87.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_88.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_89.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_90.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_91.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_92.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_93.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_94.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_95.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_96.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_97.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_98.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/f1/Последний из удэге_99.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/«Ломай замок!».txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Александровский парк.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Алмазная корона.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Аптека.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Афонский лимон в графине.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Бадер, Уточкин, Макдональд.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Бегство в Аккерман.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Беспроволочный телеграф.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Бибабо и бильбоке.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Боборыкин.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Болезнь.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Бомба.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Буря на море.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Бутылка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Бычки на креветку.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/В верхних слоях атмосферы.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Ватрушки с изюмом.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Вечеринка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Взрыв водорода.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Волшебный рог Оберона.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Выстрел с крыши.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Герои русско-японской войны.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Гибель «Петропавловска».txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Гололедица.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Гостиница «Центральная».txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Граммофонные иголки.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Две лошади.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Дельфин.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Деревянное масло для лампадки.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Деревянный солдатик.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Дети капитана Гранта.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Детское представление о смерти.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Дорогие игрушки.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Драгоценные окаменелости.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Живопись.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Замерзшее море.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Звезды в форточке.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Землетрясение.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Зеркало.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Золоченый орех.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Игрушечная яхта.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Извозчик.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Иллюзион.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/История с кошками и старым генералом.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Карлики.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Каток.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Клады.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Комета Галлея.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Кусочек фосфора.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Лекция.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Лечение зуба.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Лимончик и Кудлатка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Ловля воробьев.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Лотерея-аллегри.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Маленькая диссертация о квартирантах.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Мама на улице.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Мандолина.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Микроскоп.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Модель Блериу.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Монетка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Музыка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Мы ребята грузди!.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Небольшие уличные происшествия.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Небольшой черный пудель.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Неудачное катанье на осле.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Обморок.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Ограбление газетного киоска.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Падающие звезды.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Паломничество в Киев.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Паноптикум.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Папин завтрак.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Папин комод.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Парафиновый гусь.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Патроны, брошенные в костер.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Пенсне.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Первая любовь.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Перед пасхой.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Письмо внучке.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Плавни.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/По горло в песке.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Пороховой шнур.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Постное масло.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Рождение братика.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Роковое клеймо.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Рыбий жир.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Рыбная ловля.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Самодельная тележка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Свиное сало.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Семена.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Сквозь сон.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Скетинг-ринг.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Слабительное.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Слон Ямбо.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Соперник.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Спички.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Таяние льда.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Театр.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Тетины поклонники.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Тетрадь с картинками.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Трамбовка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Утопленница.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Фани Марковна.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Фейерверк.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Французская борьба.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Футбол.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Церковное вино.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Человеческий мозг.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Черный месяц март.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Шестигранный брикет.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Эрнест Витолло.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Я еще никогда не видел ночи.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Ядро в цоколе Дюка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/Японец.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/…Прыжок смерти.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict/ka1/…Столовая ложка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Молодая гвардия_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Молодая гвардия_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_100.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_101.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_102.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_103.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_104.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_105.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_106.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_107.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_108.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_109.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_110.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_111.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_113.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_114.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_115.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_116.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_117.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_118.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_119.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_120.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_121.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_122.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_123.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_124.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_125.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_126.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_127.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_128.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_129.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_130.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_131.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_132.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_133.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_134.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_135.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_136.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_138.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_139.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_14.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_140.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_141.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_142.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_143.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_144.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_15.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_17.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_19.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_21.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_22.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_26.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_27.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_28.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_29.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_30.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_31.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_32.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_33.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_34.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_35.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_36.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_37.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_38.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_39.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_40.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_41.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_42.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_43.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_44.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_45.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_46.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_47.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_48.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_49.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_51.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_52.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_53.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_54.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_55.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_56.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_57.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_58.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_59.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_60.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_61.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_62.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_63.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_64.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_65.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_66.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_67.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_68.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_69.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_70.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_71.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_72.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_73.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_74.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_76.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_77.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_78.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_79.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_80.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_81.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_82.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_83.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_84.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_85.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_86.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_87.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_88.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_89.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_90.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_91.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_92.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_93.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_94.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_95.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_96.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_97.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_98.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/fadeev/Последний из удэге_99.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prep/tolstoy/Voskresenie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/tolstoy/Voskresenie.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/TD/result_Sholokhov.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_103.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_104.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_106.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_107.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_108.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_109.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_110.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_111.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_112.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_113.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_114.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_115.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_116.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_117.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_118.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_119.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_124.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_125.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_126.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_127.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_128.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_55.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_58.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_59.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_61.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_62.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_63.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_65.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_66.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_67.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_68.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_69.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_70.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_71.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_72.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_73.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_74.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_75.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_76.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_77.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_78.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_79.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_81.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_82.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_83.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_84.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_85.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_86.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_87.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_88.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_89.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_90.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_91.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_92.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_93.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_94.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_95.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_96.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_97.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_98.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/at1/Giperboloid_inzhenera_Garina_99.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict/mm/mm_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/predict/mm/mm_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/01_-_Sestri_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prep/atolstoy/targ/02_-_Vosemnadcatiy_god_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Воспоминания, портреты, статьи_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Конармия_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Миниатюры_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Миниатюры_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Одесские рассказы_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Публицистика_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prep/babel/Рассказы разных лет_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Bulgakov.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Fadeyev.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Kataev.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Krukov.csv" afterDir="false" />
@@ -634,6 +576,92 @@
       <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Serafimovich.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Sholokhov.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/TD/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/TD/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/at1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/at1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/at1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/at1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/at1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/at1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/f1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/f1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ga1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ga1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ilf1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ilf1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/ka1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/ka1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/lt1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/lt1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/mm/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/mm/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/o1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/o1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pa1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pa1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Babel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Babel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Bulgakov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Bulgakov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Fadeyev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Fadeyev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Kataev.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Kataev.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Krukov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Krukov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Platonov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Platonov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Serafimovich.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Serafimovich.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Sholokhov.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Sholokhov.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pl1/result_prob_Tolstoy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pl1/result_prob_Tolstoy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_Krukov.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_Tolstoy.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -670,8 +698,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mltr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="171" column="8" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
+            <state relative-caret-position="375">
+              <caret line="68" column="78" selection-start-line="68" selection-start-column="78" selection-end-line="68" selection-end-column="78" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -720,7 +748,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="57" />
     <option name="y" value="6" />
     <option name="width" value="1231" />
@@ -898,8 +926,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="25" width="1231" height="999" extended-state="7" />
-    <editor active="true" />
+    <frame x="49" y="25" width="1231" height="999" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19536424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -907,7 +934,7 @@
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3091954" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49310344" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1006,8 +1033,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mltr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="171" column="8" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
+        <state relative-caret-position="375">
+          <caret line="68" column="78" selection-start-line="68" selection-start-column="78" selection-end-line="68" selection-end-column="78" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

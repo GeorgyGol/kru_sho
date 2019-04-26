@@ -59,21 +59,22 @@ def read_TD(strDir=str_TD_FileDir, file_mask='*'):
         except IsADirectoryError:
             continue
     pdf=pd.DataFrame(lst_params)
+
     #print(pdf['name'].tolist())
     return  pdf
 
 
 def train_model(pdf, train_with_test=True):
+    vectoriser = TfidfVectorizer()
+    classifier = MLPClassifier(hidden_layer_sizes=(480, 50,), activation='relu', tol=5e-5,
+                               n_iter_no_change=5, max_iter=250, alpha=1e-5, verbose=True,
+                               warm_start=False)
+
     print('Train model...', end='')
     X_train, X_test, y_train, y_test=train_test_split(pdf['text'], pdf['flag'])
 
     #print(X_train)
-    #clf_pp=Pipeline([('tfidf', TfidfVectorizer(ngram_range=(1, 2))), ('clf_n', MLPClassifier())]) # настройка с параметрами
-    clf_pp = Pipeline([('tfidf', TfidfVectorizer()), ('clf_n', MLPClassifier(hidden_layer_sizes=(470,50,),
-                                                                             activation='tanh', tol=1e-5,
-                                                                             n_iter_no_change=5,
-                                                                             max_iter=250, alpha=1e-5, verbose=False,
-                                                                             warm_start=True))])
+    clf_pp=Pipeline([('tfidf', vectoriser), ('clf_n', classifier)])
 
     if train_with_test:
         clf_pp.fit(X_train, y_train)
@@ -85,12 +86,6 @@ def train_model(pdf, train_with_test=True):
     else:
         clf_pp.fit(pdf['text'], pdf['flag'])
         print('Train comlete - without test', end='\n')
-    #print('+'*40)
-
-    #print('?' * 40)
-    #print('\nВОПРОС : автор "Тихого Дона"  -- {0}?\n'.format(pdf.loc[pdf['flag']==1, 'auth'].values[0]))
-    #print('?' * 40)
-
     return clf_pp
 
 
@@ -107,8 +102,10 @@ def sort_result(pdf):
     pdf.sort_values(lstID, inplace=True)
     return pdf.drop(lstID, axis=1)
 
+def modeling(strIndex, lstPredict, pdfSrc):
+    def set_flag(src):
+        return 1 if src['auth']==authors.main_author['strRuName'].values[0] else 0
 
-def modeling(strIndex, lstPredict):
     def get_make_dir(strName):
         strResultDir = re.sub('predict', 'result', strName)
 
@@ -126,27 +123,22 @@ def modeling(strIndex, lstPredict):
         return pdf_result
 
     authors.main_author = strIndex
+    pdfSrc['flag']=pdfSrc.apply(set_flag, axis=1)
 
-    pdfX = pd.concat([pdf for pdf in authors.index.map(read_source_txt)])
-
-    print('loading sourses (files):')
-    print(pdfX.groupby(by='auth').size())
-    print('=' * 40)
-
-    print('Loaded study files: ', pdfX.shape[0])
     print('Train model for ', strIndex)
-    #os._exit(0)
-    model = train_model(pdfX)
+    #print(pdfSrc.groupby(['flag', 'auth']).count())
+    #return 0
+
+    model = train_model(pdfSrc)
     print('o.k.', end='\n')
     #res = model.predict(pdf_td['text'])
     for l in lstPredict:
         print('?' * 20, '\t', l, '\t', '?' * 20)
-        print('\n{1} ВОПРОС : автор "кучи непонятных текстов" -- {0}?'.format(
+        print('\n{1} ВОПРОС : автор "кучи непонятных текстов" -- {0}? --- {2}'.format(
                 authors.main_author['strRuName'].values[0],
-                dt.datetime.now().strftime('%d.%m.%Y %H:%M:%S')))
-        print(authors.index.tolist())
+                dt.datetime.now().strftime('%d.%m.%Y %H:%M:%S'), authors.index.tolist()))
 
-        pdf_td = read_TD(strDir=l)  # read ASK samle
+        pdf_td = read_TD(strDir=l)  # read ASK sample
         pdf_result=get_res_data_frame(l, pdf_td)
         res_prob = model.predict_proba(pdf_td['text'])
 
@@ -158,15 +150,18 @@ def modeling(strIndex, lstPredict):
                                   'result_prob_{}.csv'.format(authors.main_author['strFileDir'].values[0]))
         pdf_result.to_csv(strResFile, sep=';', index=False)
         print('writing result to file ', strResFile)
-        print('\nDone for ', l)
         print('?' * 80)
 
     print('All done for', strIndex)
 
-def main():
-    lst_predict=['predict/f1', 'predict/ka1', 'predict/pl1', 'predict/at1',
+lst_predict=['predict/f1', 'predict/ka1', 'predict/pl1', 'predict/at1', 
                  'predict/ga1', 'predict/pa1', 'predict/o1', 'predict/ilf1',
-                 'predict/lt1', 'predict/mm', str_TD_FileDir]
+                 'predict/lt1', 'predict/mm', 'predict/sh', str_TD_FileDir]
+
+def main():
+    #lst_predict=['predict/f1', 'predict/ka1', 'predict/pl1', 'predict/at1', 'predict/ba1',
+    #             'predict/ga1', 'predict/pa1', 'predict/o1', 'predict/ilf1',
+    #             'predict/lt1', 'predict/mm', str_TD_FileDir]
     #lst_predict = ['predict/f1']
 
     # TD
@@ -174,20 +169,29 @@ def main():
     #'predict/ka1'  # Kataev's texts
     #'predict/pl1'  # Platonov's texts
     #'predict/lt1'  # L. Tolstoj's texts
-    # 'predict/at1'  # A. Tolstoj's texts
+    #'predict/at1'  # A. Tolstoj's texts
+    #'predict/Ba1'  # I. Babel's texts
     #'predict/mm'  # Bulgakov's texts
 
     authors.use(val=False)
-    authors.use(index=['kru', 'sho', 'sera', 'fad', 'ltol', 'pla', 'kat', 'bab', 'blg', 'atol'], val=True)
+    authors.use(index=['kru', 'sho', 'sera', 'fad', 'ltol', 'pla', 'kat', 'blg', 'atol', 'bab'], val=True)
     #print(authors)
-    
+
+    pdfX = pd.concat([pdf for pdf in authors.index.map(read_source_txt)])
+
+    print('loading sourses (files):')
+    print(pdfX.groupby(by='auth').size())
+    print('=' * 40)
+
     with warnings.catch_warnings():
         warnings.simplefilter('ignore')
         for n, auth in authors.iterrows():
             if auth['in_use']:
-                modeling(n, lst_predict)
+                modeling(n, lst_predict, pdfX)
 
 
 if __name__ == "__main__":
     main()
-    #modeling('fad', 'predict/f1')
+    #modeling('bab', lst_predict)
+
+
